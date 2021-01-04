@@ -1,0 +1,11 @@
+50 Hold on, please 
+A Hello, Customer Service. Brown speaking
+B This is Tom. Is Mr. Robinson avaiable?
+A Hold on, please. He's stepped out for a moment.
+B It's so hard to reach him. He was out of town last time
+A I'll tell him to get back to you when he gets in
+B It's almost lunch time. Maybe he's out to lunchA Hold on, please. He's stepped out for a moment.
+B It's so hard to reach him. He was out of town last time
+A I'll tell him to get back to you when he gets in
+B It's almost lunch time. Maybe he's out to lunch
+
