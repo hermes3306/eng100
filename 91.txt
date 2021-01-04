@@ -1,0 +1,8 @@
+91. Give me a wake-up call
+A I have a reservation under the name of Jinsu Kim.
+B Yes, Sir. Could you fill out this form, please?
+A I'd like a room with an ocan view if possible
+B Let me check. Okay, we have one. Your room number is 902
+A Great. Can you giv me a wake-up call at 7:00
+B Sure. I'll have a bellboy carry  your luggage to your room.
+A Can I have an extra towel in my room, please
