@@ -11,14 +11,14 @@ while (true) {
 	if ($handle) {
     	while (($line = fgets($handle)) !== false) {
 			echo $line;
-			sleep(1);
+			sleep(3);
     	}
     	fclose($handle);
 	} else {
     	// error opening the file.
 	} 
 	echo "*";
-	sleep(3);
+	sleep(10);
 	system('clear');
 }
 
